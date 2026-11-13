@@ -1,0 +1,83 @@
+{
+  "job_title": "Data and Financial Engineering",
+  "requirements": [
+    {
+      "name": "Python",
+      "short": "Python",
+      "priority": "Critical",
+      "min_years": null
+    },
+    {
+      "name": "SQL",
+      "short": "SQL",
+      "priority": "Critical",
+      "min_years": null
+    },
+    {
+      "name": "ETL/ELT pipelines",
+      "short": "ETL/ELT",
+      "priority": "Critical",
+      "min_years": null
+    },
+    {
+      "name": "Experience with financial data",
+      "short": "Financial data",
+      "priority": "Critical",
+      "min_years": null
+    },
+    {
+      "name": "Relational databases (ideally SQL Server) and data modelling",
+      "short": "SQL Server & data modelling",
+      "priority": "High",
+      "min_years": null
+    },
+    {
+      "name": "Data quality checks, reconciliations and data lineage",
+      "short": "Data quality & lineage",
+      "priority": "High",
+      "min_years": null
+    },
+    {
+      "name": "Git and SDLC best practices (code reviews, testing, release management)",
+      "short": "Git & SDLC",
+      "priority": "Medium",
+      "min_years": null
+    },
+    {
+      "name": "Test-driven development",
+      "short": "TDD",
+      "priority": "Medium",
+      "min_years": null
+    },
+    {
+      "name": "Analytical skills and proactive problem solving",
+      "short": "Analytical skills",
+      "priority": "Medium",
+      "min_years": null
+    },
+    {
+      "name": "Written and oral English, stakeholder communication",
+      "short": "English & communication",
+      "priority": "Medium",
+      "min_years": null
+    },
+    {
+      "name": "University degree in engineering, finance, economics or similar",
+      "short": "Degree",
+      "priority": "Medium",
+      "min_years": null
+    },
+    {
+      "name": "Jira",
+      "short": "Jira",
+      "priority": "Low",
+      "min_years": null
+    },
+    {
+      "name": "Product Control experience",
+      "short": "Product Control",
+      "priority": "Low",
+      "min_years": null
+    }
+  ]
+}

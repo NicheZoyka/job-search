@@ -1,0 +1,199 @@
+{
+  "candidate_name": "Alex Novak",
+  "stated_experience": "7 years",
+  "roles": [
+    {
+      "company": "Helvetia Capital Partners",
+      "title": "Senior Data Engineer",
+      "start": "2023-01",
+      "end": "present"
+    },
+    {
+      "company": "Baltic Retail Bank",
+      "title": "Data Developer",
+      "start": "2019-07",
+      "end": "2022-12"
+    }
+  ],
+  "assessments": [
+    {
+      "requirement": "Python",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Built Python and SQL pipelines",
+          "quote": "Built and maintained Python and SQL pipelines"
+        },
+        {
+          "role_index": 1,
+          "what": "Automated Excel reports with Python",
+          "quote": "Created Python scripts to automate recurring Excel reports"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "SQL",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Built Python and SQL pipelines",
+          "quote": "Python and SQL pipelines"
+        },
+        {
+          "role_index": 1,
+          "what": "Wrote T-SQL stored procedures",
+          "quote": "Wrote T-SQL stored procedures"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "ETL/ELT pipelines",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Designed ETL/ELT processes",
+          "quote": "Designed ETL/ELT processes on SQL Server and Snowflake"
+        },
+        {
+          "role_index": 1,
+          "what": "Built SSIS loading packages",
+          "quote": "SSIS packages loading loan and treasury data"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "Experience with financial data",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Processed trade and valuation data",
+          "quote": "trade and valuation data"
+        },
+        {
+          "role_index": 1,
+          "what": "Built P&L and balance sheet reports",
+          "quote": "month-end P&L and balance sheet reports"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "Relational databases (ideally SQL Server) and data modelling",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Designed dimensional data models on SQL Server",
+          "quote": "SQL Server and Snowflake with dimensional data models"
+        },
+        {
+          "role_index": 1,
+          "what": "Worked with SQL Server",
+          "quote": "T-SQL, SSIS, SQL Server, Python, Git"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "Data quality checks, reconciliations and data lineage",
+      "match": "No",
+      "evidence": [],
+      "note": "No evidence of reconciliations, data quality checks or lineage"
+    },
+    {
+      "requirement": "Git and SDLC best practices (code reviews, testing, release management)",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Ran code reviews and Git-based releases",
+          "quote": "code reviews on every pull request"
+        },
+        {
+          "role_index": 1,
+          "what": "Used Git for version control",
+          "quote": "Used Git for version control"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "Test-driven development",
+      "match": "Partial",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Introduced pytest unit tests",
+          "quote": "Introduced pytest unit tests"
+        }
+      ],
+      "note": "Unit tests are evidenced; TDD as a practice is not stated"
+    },
+    {
+      "requirement": "Analytical skills and proactive problem solving",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Proactively removed root causes of data breaks",
+          "quote": "Proactively identified recurring data breaks"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "Written and oral English, stakeholder communication",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Worked with stakeholders in an English-speaking team",
+          "quote": "Worked daily with stakeholders in an international English-speaking team"
+        },
+        {
+          "role_index": null,
+          "what": "English level C1",
+          "quote": "English – C1"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "University degree in engineering, finance, economics or similar",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": null,
+          "what": "MSc in Finance and Econometrics",
+          "quote": "MSc Finance and Econometrics"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "Jira",
+      "match": "Yes",
+      "evidence": [
+        {
+          "role_index": 0,
+          "what": "Tracked work in Jira",
+          "quote": "Tracked work in Jira"
+        }
+      ],
+      "note": null
+    },
+    {
+      "requirement": "Product Control experience",
+      "match": "No",
+      "evidence": [],
+      "note": "Finance-department reporting at a bank, but no Product Control evidence"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Data and Financial Engineering
+
+Requirements description
+- Strong hands-on development in Python and SQL (writing production-quality, maintainable code)
+- Knowledge of Jira, Git, test driven development
+- Experience with Financial data
+SDLC best practices (version control, code reviews, testing, documentation, release management).
+- Experience building ETL/ELT processes and working with relational databases (ideally SQL Server) and data modelling concepts
+- University graduate from a reputed institution in engineering, finance, economic subjects or similar
+- Strong analytical skills and a proactive approach to problem solving
+- Excellent written English and oral communication skills
+- Experience with Product Control is a plus
+
+Your responsibilities
+1. Design, build, and maintain automated solutions to improve controls and analytical processes (Python/SQL)
+2. Build and maintain ETL/ELT pipelines: ingest, transform, validate, and publish datasets for downstream Product Control use cases
+3. Develop strong understanding of data sourcing and lineage (inputs, transformations, outputs), including data quality checks and reconciliations.
+4. Partner with Product Control stakeholders to ensure solutions meet requirements and comply with relevant policies and control standards.
+5. Cooperate with Technology to ensure smooth integration, deployment, and supportability (e.g., environments, scheduling, access, release processes)
+6. Promote programming and data literacy within Product Control (documentation, reusable patterns, peer support)
+7. In cooperation with the wider Product Control Data & Engineering team, support the correct delivery of standardised

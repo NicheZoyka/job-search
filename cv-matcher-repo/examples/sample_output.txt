@@ -1,0 +1,71 @@
+AI CV Summary
+Alex Novak has 7 years of IT experience, with strong skills in Python (7 years 1 month), SQL (7 years 1 month), ETL/ELT (7 years 1 month), Financial data (7 years 1 month), SQL Server & data modelling (7 years 1 month), Git & SDLC (7 years 1 month), Analytical skills (3 years 7 months), English & communication (3 years 7 months), Jira (3 years 7 months). Partial evidence: TDD. However, there is no evidence of Data quality & lineage (required).
+Skills:
+✔
+Python
+Critical
+Matching: Yes
+Evidence: Built Python and SQL pipelines at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months; Automated Excel reports with Python at Baltic Retail Bank (Jul 2019 – Dec 2022), 3 years 6 months; total 7 years 1 month.
+✔
+SQL
+Critical
+Matching: Yes
+Evidence: Built Python and SQL pipelines at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months; Wrote T-SQL stored procedures at Baltic Retail Bank (Jul 2019 – Dec 2022), 3 years 6 months; total 7 years 1 month.
+✔
+ETL/ELT pipelines
+Critical
+Matching: Yes
+Evidence: Designed ETL/ELT processes at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months; Built SSIS loading packages at Baltic Retail Bank (Jul 2019 – Dec 2022), 3 years 6 months; total 7 years 1 month.
+✔
+Experience with financial data
+Critical
+Matching: Yes
+Evidence: Processed trade and valuation data at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months; Built P&L and balance sheet reports at Baltic Retail Bank (Jul 2019 – Dec 2022), 3 years 6 months; total 7 years 1 month.
+✔
+Relational databases (ideally SQL Server) and data modelling
+High
+Matching: Yes
+Evidence: Designed dimensional data models on SQL Server at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months; Worked with SQL Server at Baltic Retail Bank (Jul 2019 – Dec 2022), 3 years 6 months; total 7 years 1 month.
+✘
+Data quality checks, reconciliations and data lineage
+High
+Matching: No
+Note: No evidence of reconciliations, data quality checks or lineage
+✔
+Git and SDLC best practices (code reviews, testing, release management)
+Medium
+Matching: Yes
+Evidence: Ran code reviews and Git-based releases at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months; Used Git for version control at Baltic Retail Bank (Jul 2019 – Dec 2022), 3 years 6 months; total 7 years 1 month.
+~
+Test-driven development
+Medium
+Matching: Partial
+Evidence: Introduced pytest unit tests at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months.
+Note: Unit tests are evidenced; TDD as a practice is not stated
+✔
+Analytical skills and proactive problem solving
+Medium
+Matching: Yes
+Evidence: Proactively removed root causes of data breaks at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months.
+✔
+Written and oral English, stakeholder communication
+Medium
+Matching: Yes
+Evidence: Worked with stakeholders in an English-speaking team at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months; English level C1; total 3 years 7 months.
+✔
+University degree in engineering, finance, economics or similar
+Medium
+Matching: Yes
+Evidence: MSc in Finance and Econometrics.
+✔
+Jira
+Low
+Matching: Yes
+Evidence: Tracked work in Jira at Helvetia Capital Partners (Jan 2023 – Present), 3 years 7 months.
+✘
+Product Control experience
+Low
+Matching: No
+Note: Finance-department reporting at a bank, but no Product Control evidence
+
+Match score: 87%

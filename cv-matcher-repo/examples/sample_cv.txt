@@ -1,0 +1,30 @@
+Novak, Alex (synthetic example - fictional person)
+Role: Senior Data Engineer
+Location: Warsaw
+Summary
+Data engineer with 7 years of experience in financial data, Python and SQL, building production ETL pipelines for finance teams.
+Experience in IT
+7 years
+Work Experience
+Helvetia Capital Partners
+Jan 2023 – Present, Senior Data Engineer
+- Built and maintained Python and SQL pipelines that ingest and transform trade and valuation data for finance teams.
+- Designed ETL/ELT processes on SQL Server and Snowflake with dimensional data models.
+- Introduced pytest unit tests and code reviews on every pull request; managed releases through Git and CI.
+- Tracked work in Jira and documented solutions in Confluence.
+- Proactively identified recurring data breaks and removed their root causes.
+- Worked daily with stakeholders in an international English-speaking team.
+Technology and Skills: Python, SQL Server, Snowflake, pandas, pytest, Git, Jira
+Baltic Retail Bank
+Jul 2019 – Dec 2022, Data Developer
+- Wrote T-SQL stored procedures and SSIS packages loading loan and treasury data into a reporting database.
+- Built month-end P&L and balance sheet reports for the finance department.
+- Created Python scripts to automate recurring Excel reports.
+- Used Git for version control of SQL and Python code.
+Technology and Skills: T-SQL, SSIS, SQL Server, Python, Git
+Languages
+Polish – Native
+English – C1
+Education
+2019 Example University of Economics, MSc Finance and Econometrics
+2017 Example University of Economics, BSc Economics
